@@ -1,2 +1,2 @@
-# batch_encoder
-A tool to encode batch file
+# Batch encoder
+一个加密批处理文件的工具，支持部分中文字符。
